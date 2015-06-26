@@ -2,6 +2,7 @@
   "require": {
     "slim/slim": "^2.6",
     "xiaosier/libweibo": "dev-master",
+    "ccampbell/chromephp": "dev-master",
     "pagon/jade": ">=1.0.0"
   },
   "repositories": [

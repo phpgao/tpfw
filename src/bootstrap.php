@@ -8,6 +8,8 @@ $app_config = require CONFIG_DIR . 'app_config.php';
 $app = new \Slim\Slim($app_config);
 
 
+
+
 # init weibo app
 require CONFIG_DIR . 'wb_config.php';
 
