@@ -1,0 +1,14 @@
+{
+  "require": {
+    "slim/slim": "^2.6",
+    "xiaosier/libweibo": "dev-master",
+    "pagon/jade": ">=1.0.0"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://pkg.phpcomposer.com/repo/packagist/"
+    },
+    {"packagist": false}
+  ]
+}
